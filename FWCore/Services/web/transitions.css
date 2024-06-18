@@ -83,3 +83,19 @@ body {
     grid-column: 1/1;
     grid-row: 9;
 }
+.top-functions {
+    width: 100%;
+    height: auto;
+    background-color: #f0f0f0;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px; 
+    align-items: center;
+    justify-content: flex-start; 
+    border-bottom: 1px solid #ccc; 
+}
+
+select{
+    font-size: 1.4em;
+}
